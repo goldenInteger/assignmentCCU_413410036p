@@ -72,16 +72,20 @@ Ex:
 
 **額外功能**
 1. 計算電腦或玩家在gameA或gameB猜了幾次才答對
+
 ![](p1.png)
 2. 排名系統 : 用猜的次數來進行排名
+
 ![](p2.png)
 3. 提示 : 在gameB中輸入HINT可以看得到謎底的最後一位數字
+
 ![](p3.png)
 4. 成就系統 : 共有4個成就分別是
 * First Steps : 玩一場遊戲
 * Persistence Is Key : 玩10場遊戲
 * Mentality Destroyer : 得到5次YOU　CHEAT
 * Something Wrong : 用5次HINT(一場最多一次)
+
 ![](p4.png)
 
 
